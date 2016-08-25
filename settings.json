@@ -1,0 +1,14 @@
+{
+  "profiles":[
+    {
+      "title":"Hellfire Girls",
+      "domains": [
+        "*://*.cloudfront.net/*"
+      ],
+      "fileExtensions": [
+        "jpg"
+      ]
+    }
+  ],
+  "previewImages":false
+}
